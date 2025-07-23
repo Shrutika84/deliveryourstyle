@@ -5,7 +5,7 @@ This repository contains the front-end design files for the **Deliver Your Style
 ## 🌐 Live Demo
 
 Visit the deployed website here:  
-**[deliveryourstyle Designs*](https://shrutika84.github.io/deliveryourstyle/index.html)*
+*[deliveryourstyle Designs](https://shrutika84.github.io/deliveryourstyle/index.html)*
 
 ## 🎯 Features
 
